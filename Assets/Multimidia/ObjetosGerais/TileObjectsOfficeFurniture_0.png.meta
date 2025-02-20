@@ -1,0 +1,3192 @@
+fileFormatVersion: 2
+guid: 77977728bd91069468bce082093aed36
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 900
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bac9a2afef182047b3d2c68fad4c983
+      internalID: -1469763182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 900
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f881b38b78f39254eabb9e91102be9ab
+      internalID: -1208913901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 900
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3723637a583b2f4bb4a0a447ffec9d2
+      internalID: -445945893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 900
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1ebf03a8072664dafc2394da08003c
+      internalID: 209783544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_4
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 900
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f033e8aacb1f783439577f6c15b87083
+      internalID: -791051983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_5
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 900
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4603a93aae8357b469acdd193b38d10a
+      internalID: -88372221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_6
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 900
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce991cf22adade448c3fc796830cb72
+      internalID: -1078636703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_7
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 900
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e50a50b9c7b5fc44a8fd903e1a55d8a
+      internalID: -614117534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_8
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 900
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4caf2ee74cf02aa47a12dd6bddb629da
+      internalID: -424382026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_9
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 900
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d292dd4baf7a23449ea1ebcfe27466f
+      internalID: -497969752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_10
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 900
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5a9c8bebd8d764ba043453f789ea88
+      internalID: -561263660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_11
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 900
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd221114a6944c418bf4868ba3c6ae4
+      internalID: 862973076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_12
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 902
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce075ce5cadf4224cb0d639862bd13b4
+      internalID: -891716198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_13
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 913
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3078cbd43f1fe3049b7d4dc3e4a1641d
+      internalID: 1240092951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_14
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 913
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289f2d217fce18e45b5225743bc92e70
+      internalID: -2146874049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_15
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 902
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7220bff1eb54f140b4a029e2cd7c767
+      internalID: -722783847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 807
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aee9fa15bc942147b5726a45c19f9e2
+      internalID: -2049038052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 807
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3f8b134808cd64dac77a5d3fca09ce
+      internalID: 19249438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_18
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 807
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f597dab19dff8c43aef041c56167720
+      internalID: -656676546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_19
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 807
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5783fb37ba2594bb4c25efe4ffaa1c
+      internalID: 1946221489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_20
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 807
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823a20917736ec24a9c227d8ecf35193
+      internalID: -1092561125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_21
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 807
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf0e1883c4946443ac53550bae4b2fa
+      internalID: -5984622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_22
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 807
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae231a97f3cc3744b1e01c055a3b82a
+      internalID: 1723965375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_23
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 807
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c994d8a18948c34aaf7df7c20132a96
+      internalID: 1955383988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_24
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 807
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142dbe35e4036f247a59d92be5d91014
+      internalID: 1739343838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_25
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 807
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909fde9edc48e7743804ccc8fd5d31cc
+      internalID: 1048020160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_26
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 807
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105435870ac008543a7c587c5f4347e5
+      internalID: -940866409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_27
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 807
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f88a66943ef27b46ac75983858bd248
+      internalID: -589013940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a3f799c07936f4e838e77f00034b90
+      internalID: -1711561366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_29
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 778
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372d4dba03b108c44a2f35a9bb3085f6
+      internalID: -1058088024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_30
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 778
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc537eb05c7e02449d16943ec149658
+      internalID: 40640704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_31
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 768
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d51213cf02a7a946817f09732b85b97
+      internalID: 625800547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_32
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 644
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86805b07598b934f828f87b7db13338
+      internalID: 1689205596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_33
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 644
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed3a5829eb49ba4aae0f80bee67be04
+      internalID: -292491776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_34
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 644
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17a4c40f88bcd94d94993f925aaef17
+      internalID: -1902358161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_35
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 644
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7faf687bf20909b4b8a9e566c3ea6c43
+      internalID: 405755759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_36
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 644
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5147f91470717f94eb87c51447900786
+      internalID: -703158828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_37
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 644
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f54b218988fbca4fa0171a4f4434d46
+      internalID: 751516833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_38
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 644
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ad7a74d33fdf446b6990d8977e75b6
+      internalID: -830776094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_39
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 644
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e6a00c3bbbb1b41868a0d9a83b1e25
+      internalID: 1936606697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_40
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 644
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ce55483ac16bc459c3d95ad4f0bc58
+      internalID: 987357408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_41
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 644
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0760a92dae43b9041891b5ca0d079a31
+      internalID: -1856685913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_42
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 644
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697f17a4f868aca428f999ab31857b85
+      internalID: 720700864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_43
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 644
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5c14e37ea88764ebd04f68fdf71e74
+      internalID: 1950471601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_44
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 653
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a92cc3097a3e341bf5024c83084116
+      internalID: 2130436813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_45
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 653
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8f1c643197f444195d1e453afc2b12
+      internalID: 1502847696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_46
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 649
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8f1e1885e0afe41b9315f437184e86
+      internalID: 1365932594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_47
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 649
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e4ad0db0633284ab43865088c16f2f
+      internalID: -444110426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_48
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 551
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e923899d752be4bbea5e58eb37d5aa
+      internalID: 1055117827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_49
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 551
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ecd8580e36c73488d044058de0c19d
+      internalID: 504830935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_50
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 551
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c537687811b819c43b88beb37fd54483
+      internalID: -787266731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_51
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 551
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9e6eac75de21949a75c9c9f8777a13
+      internalID: -370773106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_52
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 551
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9ff1f102c47974c8c9970da582c705
+      internalID: -2129444818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_53
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 551
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e6aa2f9b7d1c04a9dd89c4e5f3ab09
+      internalID: -858380924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_54
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 551
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07c45becbb6ee64385c34fff24a5e92
+      internalID: 222153797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_55
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 551
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1970e84209d3e124f94e7327071bf5a1
+      internalID: -1046439154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_56
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 551
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b9ace3ef9fd3d46ba7b94dd906202b
+      internalID: 1005783063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_57
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 551
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86c622db6cc9144fa6059709f11c4ec
+      internalID: -1597697689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_58
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 551
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16321908ae2c4b47ba61eae87bf3339
+      internalID: -485511239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_59
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 551
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e03af31e9f8d84c88035e0a2da17a5
+      internalID: 506826171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_60
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 525
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459af56011ed5c541af845f9c05dbfc5
+      internalID: -2068763204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_61
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 525
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b148107cada50c4d89024c1a3410135
+      internalID: 1379494423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_62
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 521
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02f1d2f0cb5d41499fcb7b55720e3bd
+      internalID: -1556352301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_63
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 521
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13798cf6b3dd224690c90f622317ba9
+      internalID: -1311716183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_64
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 388
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b155222814b5d1546b00f1309d4f9015
+      internalID: 1261747753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_65
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 388
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e11c0afa3285647b9395f367bd5f8e
+      internalID: -504155258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_66
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 388
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4613422a67c7f49b455396e8af9ac2
+      internalID: 1076524390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_67
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 388
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c746f3ec9c2ddf941b9322c44cf88e68
+      internalID: -141993228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_68
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 388
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2fbe76dd205c144b115866b3028030
+      internalID: -2040396224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_69
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 388
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f8aaa4760434e4c9e1b7de0811a041
+      internalID: -606709375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_70
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 388
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbba4fa13ccd7f4cbfced880e9ddfdc
+      internalID: -770432459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_71
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 388
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b346442def0eba64da3e256b0577292d
+      internalID: -99600528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_72
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 388
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2d7f4bb7cc13f4fb288092222b76a1
+      internalID: -221767242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_73
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 388
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57bec46e204fcf449145722be804c1c
+      internalID: 1245855832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_74
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 388
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b22606e240f6bb47922da6c8058a0ef
+      internalID: -791986212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_75
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 388
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006056706683a5b419d358dbc1cf1e6d
+      internalID: -418043601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_76
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 424
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146ee836d5c59704388f629d6c4e9a41
+      internalID: -1389234959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_77
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 421
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a481754eb929a854e8d61ac0c8a7e4be
+      internalID: 1397645315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_78
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 432
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d55465f6f44324ca684788b6d2d5cb
+      internalID: -15991827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_79
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 425
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fce7acd293eff6418bacf705494bcce
+      internalID: -1635274526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_80
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 426
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7752510ecc3a4f64cad5df5a95c85757
+      internalID: -334907246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_81
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 425
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435923c1af0a6364999d784b8cf30a7c
+      internalID: 704139675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_82
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 260
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bded1ca915e4945bd6eedaf59a51dc
+      internalID: 2122511532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_83
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 295
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa0a60bcc4dca84291423da94fa3114
+      internalID: 645902012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_84
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 260
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc5e5af5dfcbab45835f86688c70b14
+      internalID: 311710734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_85
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 295
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf21e7270b9f794da11206eecdc2409
+      internalID: 1922204216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_86
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 260
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7820b458c1876f844948a1a1f8ec7e58
+      internalID: 368051276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_87
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 295
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48128262e6745f241ab8b99d9629bf25
+      internalID: 536542974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_88
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 260
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8011506fbc5afe3479dd26eedb6d70c6
+      internalID: 619867053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_89
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 295
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8c8b60157d0d54491b28b72119f85f
+      internalID: -123953912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_90
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 260
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b13de1b68daf044929d113afe497f4
+      internalID: -897940651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_91
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 295
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e63baabe95fdb44ae041581ed3b495
+      internalID: 320293353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_92
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 260
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949ac35a95bd3a14db125e073885adeb
+      internalID: -483516210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_93
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 295
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3515d66ce590b4b4f9ce3b02a97807d6
+      internalID: 616350168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_94
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 261
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7fe68461c73494196709f76efc6ea7
+      internalID: 1377890697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_95
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 261
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b6d370ee6c835468232ad715b943c5
+      internalID: -83775158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_96
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 297
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413cb643d77feb54289279f5c0d2a97b
+      internalID: -307530633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_97
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 294
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ef0f7bb8ca4b041938848f5fa27b1b
+      internalID: -2121980350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_98
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 300
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897e233fbd30a7f4889e74179c1b80f6
+      internalID: -353878134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_99
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 297
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8aaa3461c46824d8c7aad9b35d278b
+      internalID: -1911852992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_100
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 165
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9c15918e65f094dacc3d6a3e299627
+      internalID: -1804219477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_101
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 165
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968c31288fc6dac4c828a854a2d2cb40
+      internalID: 1936147755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_102
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 165
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80e642d494bc854b8cc321c85146774
+      internalID: 259141404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_103
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 165
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a12bdd195fe9754395ceabe4cc62b3f
+      internalID: 661589455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_104
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 165
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30aadcf181e858543be6d2cb0b76b5a0
+      internalID: -1085215952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_105
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 165
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0a93d799c9a41488e2d3d2c1549ff5
+      internalID: -929240851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_106
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 165
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2eb5b921f1ca5b43a243b8f77cab8b7
+      internalID: 1979076930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_107
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 165
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2dc9a9721bbe6640b4e48f642f718d3
+      internalID: -317594416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_108
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 165
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5915a77c7d55a934299ce0d13a18c1ba
+      internalID: 81770319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_109
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 165
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f30e3f6a7719d4b91ee1f6be6327e6
+      internalID: 484399657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_110
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 165
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9104f27e9323d048985f5a84f8fd372
+      internalID: 833620308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_111
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 165
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2632502ff0e5764891cd41cdebde1e5
+      internalID: 1257618334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_112
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 133
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d90c039debdac4bb77d55e3ae72257
+      internalID: -40661444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_113
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 133
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4249f8c114bca5746a52dd1ab46d6b80
+      internalID: -809438336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_114
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 187
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669d10aa6f3f15440bf01c5c5abb9c5f
+      internalID: 303445773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_115
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 187
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4a296bb42e8b342b8806436b5e97af
+      internalID: 2044329003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_116
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 37
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7016d74e59f20494c9b0608541589c37
+      internalID: -1387829642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_117
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 37
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddab900e9fb54dc46bb9c6b3fdf292b9
+      internalID: 1392502177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_118
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 37
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d106b11a693a444fb00ac7365f0a559
+      internalID: -662000001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_119
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 37
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863182210c1882a45bb163bcf935508f
+      internalID: 2037940134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_120
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 37
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bf1a19d88852a4cbeb93c1a65d85ed
+      internalID: 1250657765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_121
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 37
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c85e04081aa0e64b8689a2368411fe4
+      internalID: 78331376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_122
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 37
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa7821316859e0479bdd0e0be0821cb
+      internalID: -1608613585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_123
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 37
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7150b86df9134641a25bbd8636426f1
+      internalID: -2041484532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_124
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 37
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcddb8ea447aebf48a4ff017b339d2bb
+      internalID: 1567711148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_125
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 37
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54276add2eafaee459c6d683832d67ed
+      internalID: 833156946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_126
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 37
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70acfbbfec55d394eb0fe22491220ca6
+      internalID: 1567226874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_127
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 37
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfaa2c5eb23cef46abf297bab045f9c
+      internalID: 1656558178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_128
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 5
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c747676daf0b2f45a055d384c6a13ec
+      internalID: -1190195267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_129
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 5
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca7aab2aacf24142a5a6d832fec6ce9
+      internalID: -1218124361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_130
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 42
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b74ad5e9c98df14d94ae5fad51850ec
+      internalID: 1468188912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileObjectsOfficeFurniture_0_131
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 14
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef74727fe08d32a4487d7d5a8d80ed64
+      internalID: -1466531580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: de041426b65301846869ef5e72ba2979
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TileObjectsOfficeFurniture_0_0: -1469763182
+      TileObjectsOfficeFurniture_0_1: -1208913901
+      TileObjectsOfficeFurniture_0_10: -561263660
+      TileObjectsOfficeFurniture_0_100: -1804219477
+      TileObjectsOfficeFurniture_0_101: 1936147755
+      TileObjectsOfficeFurniture_0_102: 259141404
+      TileObjectsOfficeFurniture_0_103: 661589455
+      TileObjectsOfficeFurniture_0_104: -1085215952
+      TileObjectsOfficeFurniture_0_105: -929240851
+      TileObjectsOfficeFurniture_0_106: 1979076930
+      TileObjectsOfficeFurniture_0_107: -317594416
+      TileObjectsOfficeFurniture_0_108: 81770319
+      TileObjectsOfficeFurniture_0_109: 484399657
+      TileObjectsOfficeFurniture_0_11: 862973076
+      TileObjectsOfficeFurniture_0_110: 833620308
+      TileObjectsOfficeFurniture_0_111: 1257618334
+      TileObjectsOfficeFurniture_0_112: -40661444
+      TileObjectsOfficeFurniture_0_113: -809438336
+      TileObjectsOfficeFurniture_0_114: 303445773
+      TileObjectsOfficeFurniture_0_115: 2044329003
+      TileObjectsOfficeFurniture_0_116: -1387829642
+      TileObjectsOfficeFurniture_0_117: 1392502177
+      TileObjectsOfficeFurniture_0_118: -662000001
+      TileObjectsOfficeFurniture_0_119: 2037940134
+      TileObjectsOfficeFurniture_0_12: -891716198
+      TileObjectsOfficeFurniture_0_120: 1250657765
+      TileObjectsOfficeFurniture_0_121: 78331376
+      TileObjectsOfficeFurniture_0_122: -1608613585
+      TileObjectsOfficeFurniture_0_123: -2041484532
+      TileObjectsOfficeFurniture_0_124: 1567711148
+      TileObjectsOfficeFurniture_0_125: 833156946
+      TileObjectsOfficeFurniture_0_126: 1567226874
+      TileObjectsOfficeFurniture_0_127: 1656558178
+      TileObjectsOfficeFurniture_0_128: -1190195267
+      TileObjectsOfficeFurniture_0_129: -1218124361
+      TileObjectsOfficeFurniture_0_13: 1240092951
+      TileObjectsOfficeFurniture_0_130: 1468188912
+      TileObjectsOfficeFurniture_0_131: -1466531580
+      TileObjectsOfficeFurniture_0_14: -2146874049
+      TileObjectsOfficeFurniture_0_15: -722783847
+      TileObjectsOfficeFurniture_0_16: -2049038052
+      TileObjectsOfficeFurniture_0_17: 19249438
+      TileObjectsOfficeFurniture_0_18: -656676546
+      TileObjectsOfficeFurniture_0_19: 1946221489
+      TileObjectsOfficeFurniture_0_2: -445945893
+      TileObjectsOfficeFurniture_0_20: -1092561125
+      TileObjectsOfficeFurniture_0_21: -5984622
+      TileObjectsOfficeFurniture_0_22: 1723965375
+      TileObjectsOfficeFurniture_0_23: 1955383988
+      TileObjectsOfficeFurniture_0_24: 1739343838
+      TileObjectsOfficeFurniture_0_25: 1048020160
+      TileObjectsOfficeFurniture_0_26: -940866409
+      TileObjectsOfficeFurniture_0_27: -589013940
+      TileObjectsOfficeFurniture_0_28: -1711561366
+      TileObjectsOfficeFurniture_0_29: -1058088024
+      TileObjectsOfficeFurniture_0_3: 209783544
+      TileObjectsOfficeFurniture_0_30: 40640704
+      TileObjectsOfficeFurniture_0_31: 625800547
+      TileObjectsOfficeFurniture_0_32: 1689205596
+      TileObjectsOfficeFurniture_0_33: -292491776
+      TileObjectsOfficeFurniture_0_34: -1902358161
+      TileObjectsOfficeFurniture_0_35: 405755759
+      TileObjectsOfficeFurniture_0_36: -703158828
+      TileObjectsOfficeFurniture_0_37: 751516833
+      TileObjectsOfficeFurniture_0_38: -830776094
+      TileObjectsOfficeFurniture_0_39: 1936606697
+      TileObjectsOfficeFurniture_0_4: -791051983
+      TileObjectsOfficeFurniture_0_40: 987357408
+      TileObjectsOfficeFurniture_0_41: -1856685913
+      TileObjectsOfficeFurniture_0_42: 720700864
+      TileObjectsOfficeFurniture_0_43: 1950471601
+      TileObjectsOfficeFurniture_0_44: 2130436813
+      TileObjectsOfficeFurniture_0_45: 1502847696
+      TileObjectsOfficeFurniture_0_46: 1365932594
+      TileObjectsOfficeFurniture_0_47: -444110426
+      TileObjectsOfficeFurniture_0_48: 1055117827
+      TileObjectsOfficeFurniture_0_49: 504830935
+      TileObjectsOfficeFurniture_0_5: -88372221
+      TileObjectsOfficeFurniture_0_50: -787266731
+      TileObjectsOfficeFurniture_0_51: -370773106
+      TileObjectsOfficeFurniture_0_52: -2129444818
+      TileObjectsOfficeFurniture_0_53: -858380924
+      TileObjectsOfficeFurniture_0_54: 222153797
+      TileObjectsOfficeFurniture_0_55: -1046439154
+      TileObjectsOfficeFurniture_0_56: 1005783063
+      TileObjectsOfficeFurniture_0_57: -1597697689
+      TileObjectsOfficeFurniture_0_58: -485511239
+      TileObjectsOfficeFurniture_0_59: 506826171
+      TileObjectsOfficeFurniture_0_6: -1078636703
+      TileObjectsOfficeFurniture_0_60: -2068763204
+      TileObjectsOfficeFurniture_0_61: 1379494423
+      TileObjectsOfficeFurniture_0_62: -1556352301
+      TileObjectsOfficeFurniture_0_63: -1311716183
+      TileObjectsOfficeFurniture_0_64: 1261747753
+      TileObjectsOfficeFurniture_0_65: -504155258
+      TileObjectsOfficeFurniture_0_66: 1076524390
+      TileObjectsOfficeFurniture_0_67: -141993228
+      TileObjectsOfficeFurniture_0_68: -2040396224
+      TileObjectsOfficeFurniture_0_69: -606709375
+      TileObjectsOfficeFurniture_0_7: -614117534
+      TileObjectsOfficeFurniture_0_70: -770432459
+      TileObjectsOfficeFurniture_0_71: -99600528
+      TileObjectsOfficeFurniture_0_72: -221767242
+      TileObjectsOfficeFurniture_0_73: 1245855832
+      TileObjectsOfficeFurniture_0_74: -791986212
+      TileObjectsOfficeFurniture_0_75: -418043601
+      TileObjectsOfficeFurniture_0_76: -1389234959
+      TileObjectsOfficeFurniture_0_77: 1397645315
+      TileObjectsOfficeFurniture_0_78: -15991827
+      TileObjectsOfficeFurniture_0_79: -1635274526
+      TileObjectsOfficeFurniture_0_8: -424382026
+      TileObjectsOfficeFurniture_0_80: -334907246
+      TileObjectsOfficeFurniture_0_81: 704139675
+      TileObjectsOfficeFurniture_0_82: 2122511532
+      TileObjectsOfficeFurniture_0_83: 645902012
+      TileObjectsOfficeFurniture_0_84: 311710734
+      TileObjectsOfficeFurniture_0_85: 1922204216
+      TileObjectsOfficeFurniture_0_86: 368051276
+      TileObjectsOfficeFurniture_0_87: 536542974
+      TileObjectsOfficeFurniture_0_88: 619867053
+      TileObjectsOfficeFurniture_0_89: -123953912
+      TileObjectsOfficeFurniture_0_9: -497969752
+      TileObjectsOfficeFurniture_0_90: -897940651
+      TileObjectsOfficeFurniture_0_91: 320293353
+      TileObjectsOfficeFurniture_0_92: -483516210
+      TileObjectsOfficeFurniture_0_93: 616350168
+      TileObjectsOfficeFurniture_0_94: 1377890697
+      TileObjectsOfficeFurniture_0_95: -83775158
+      TileObjectsOfficeFurniture_0_96: -307530633
+      TileObjectsOfficeFurniture_0_97: -2121980350
+      TileObjectsOfficeFurniture_0_98: -353878134
+      TileObjectsOfficeFurniture_0_99: -1911852992
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
